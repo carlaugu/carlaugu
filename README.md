@@ -1,2 +1,2 @@
-💻 Software engineering student at 42 Porto.\n
+💻 Software engineering student at 42 Porto.
 Curious about technology and passionate about building things and solving problems.
