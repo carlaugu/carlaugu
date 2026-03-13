@@ -1,5 +1,4 @@
-## About me
----
+# About me:
 
 💻 Software engineering student at 42 Porto.
 
